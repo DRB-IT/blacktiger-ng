@@ -1,6 +1,12 @@
-node_modules
 typings
-systemjs.config.js
-tsconfig.json
-typings.json
+tslint.json
 dist
+config
+e2e
+node_modules
+public
+tmp
+.clang-format
+.editorconfig
+angular-cli.json
+angular-cli-build.js
