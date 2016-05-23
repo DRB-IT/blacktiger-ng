@@ -1,0 +1,6 @@
+node_modules
+typings
+systemjs.config.js
+tsconfig.json
+typings.json
+dist
